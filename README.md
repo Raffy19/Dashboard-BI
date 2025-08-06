@@ -27,3 +27,7 @@ The dataset includes key health-related fields such as:
 - Fit employees make up slightly over half of the participants.
 - Certain locations report more unfit employees, indicating higher health risks.
 - Daily participant trends vary and can guide scheduling of checkups.
+
+## Disclaimer
+> This project uses **dummy data** created solely for learning and demonstration purposes.  
+> It does not reflect real employee information or actual health data from PT Pertamina.
